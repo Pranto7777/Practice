@@ -1,0 +1,48 @@
+/* Font Input */
+body {
+    font-family: 'Work Sans', sans-serif;
+    Header Styles
+}
+
+/* header styles */
+.header-content {
+    text-align: right;
+
+
+}
+
+.header {
+    background: url("../images/banner/banner1.png");
+    height: 808px;
+}
+
+.header-titel {
+    color: #151414;
+    font-size: 65px;
+    font-weight: 700;
+    padding-top: 216px;
+    padding-right: 230px;
+    padding-left: 845px;
+}
+
+.header-text {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    padding-right: 230px;
+    padding-left: 876px;
+    line-height: 26px;
+}
+
+.button-contact-us {
+    border-radius: 5px;
+    background: #F15B22;
+    width: 160px;
+    height: 64px;
+    margin-right: 230px;
+    margin-top: 31px;
+    border: none;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+}
